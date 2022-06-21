@@ -1,0 +1,150 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+}  
+#section1 {
+    width: 100%;
+    height: 60vh;
+
+}
+.hbt {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+    margin-left: 9%;
+    position: absolute;
+    margin-top: 13px;
+
+}
+.div2 {
+    background-color: #333;
+    height: 50px;
+    display: flex;
+}
+.abou {
+    padding-top: 70px;
+    font-size: 20px;
+    margin-left: 25%;
+} 
+
+
+.home {
+    margin-left: 70%;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 14px;
+}
+.home:hover {
+    color: coral;
+    background-color: #777;
+}
+
+.about {
+    margin-left: 78%;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 14px; 
+     
+}
+.about:hover {
+    color: coral ;
+    background-color: #777;
+    
+
+}
+.contact {
+    margin-left: 85%;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 14px;
+}
+.contact:hover {
+    color: coral;
+    background-color: #777;
+}
+
+
+.lore {
+ padding-top: 25px;
+ margin-left: 25%;
+}
+.ppp {
+    padding-top: 25px;
+    margin-left: 25%;
+}
+.img {
+    width: 400px;
+    height  : 300px;
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-left: 200px;
+
+}
+
+/*gusts*/
+
+#guest {
+    background-image: url('test-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+}
+.container h2 {
+    color: #fff;
+    margin-left: 38%;
+    padding-top: 7%;
+    font-size: 35px;
+}
+.backround {
+    background-color: rgb(248, 191, 85);
+    margin-top: 50px;
+    align-items: center;
+    width: 59%;
+    border-radius: 10px;
+    margin-left: 19%;
+
+}
+.lorem58 {
+    margin-top: -105px;
+    position: absolute;
+    margin-left: 129px;
+    width: 49%;
+    
+}
+.backround1 {
+    background-color: rgb(248, 191, 85);
+    margin-top: 50px;
+    align-items: center;
+    width: 59%;
+    border-radius: 10px;
+    margin-left: 19%;
+}
+.lorem59 {
+    margin-top: -105px;
+    position: absolute;
+    margin-left: 129px;
+    width: 49%;         
+}
+.imp {
+    border-radius: 50%;
+    width: 120px;
+    padding: 10px;
+}
+.PP {
+    background-color: #333;
+    color: aliceblue;
+    height: 70px;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 25px;  
+    margin-top: 100px;
+}

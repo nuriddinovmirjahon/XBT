@@ -1,0 +1,105 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+}  
+#section {
+    width: 100%;
+    height: 100vh;
+
+}
+.hbt {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+    margin-left: 7%;
+    position: absolute;
+    margin-top: 28px;
+
+}
+.div1 {
+    background-color: #333;
+    height: 70px;
+}
+.home {
+    margin-left: 70%;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 30px;
+}
+.home:hover {
+    color: coral;
+    background-color: #777;
+}
+
+.about {
+    margin-left: 78%;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 30px; 
+     
+}
+.about:hover {
+    color: coral ;
+    background-color: #777;
+    
+}
+.contact {
+    margin-left: 85%;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 30px;
+}
+.contact:hover {
+    color: coral;
+    background-color: #777;
+}
+/* main */
+.main {
+    padding: 0% 7%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.abou {
+    padding-top: 25px;
+    font-size: 20px;
+    
+    font-size: 30px;
+} 
+.please { 
+    
+    margin-top: 20px;
+}
+.username {
+    margin-top: 10px;
+}
+.username>label {
+    font-size: 20px;
+}
+.username>label,input {
+    display: block;
+}
+.username>input {
+    width: 96%;
+    border: 0.8px solid gray;
+    height: 45px;
+    font-size: 20px;
+
+}
+.sub {
+    background-color: #333;
+    color: aliceblue;
+    width: 75px;
+    height: 40px;
+    font-family: Arial;
+    font-size: 15px;
+}
+.but {
+    padding-top: 20px;
+}
